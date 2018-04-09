@@ -4,7 +4,7 @@ The hot dog not hot dog app (SeeFood) from T.V's Silicon Valley has gained alot 
 
 Watson's Visual Recognition lets you know if you're dealng with a hotdog or not through an uploaded image or url.
 
-[Application Demo Here](https://hotdog-not-hotdog.mybluemix.net)
+[Application Demo Here](https://hotdog-or-not.mybluemix.net)
 
 <img src="./screenshots/hotdog-not-hotdog-screenshot.PNG" width="450"/>
 "# Hotdog-Or-Not" 
